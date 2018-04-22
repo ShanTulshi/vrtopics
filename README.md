@@ -21,3 +21,4 @@ This project was created by Lawrence Angrave in 2018, to create a space where up
 List of authors:
 
 * Lawrence Angrave
+* [Shan Tulshi](github.com/ShanTulshi)
