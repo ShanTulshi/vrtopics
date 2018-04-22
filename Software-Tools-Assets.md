@@ -48,6 +48,8 @@ Free and paid resources can be found at [free3d.com](https://free3d.com/3d-model
 
 Simple 3D environments can greatly benefit from bumpmaps and textures. Again there are many resources which can be quickly found through a web search. In addition to the textures included in Unity example projects, high quality textures can be downloaded from [freestocktextures.com](https://freestocktextures.com/)
 
+You can create normal maps for textures from [cpetry.github.io](https://cpetry.github.io/NormalMap-Online/).
+
 # Audio samples and resources
 
 Free Sound effects can be found at [freesound](https://freesound.org/).
